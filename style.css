@@ -4,6 +4,28 @@
 }
 
 body {
-	background:black;
-	
+	background:blue;
+
+}
+
+header {
+	background: url(http://bebusinessed.com/wp-content/uploads/2014/03/734899052_13956580111.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.title{
+	position:absolute;
+	top: 10%;
+	left: 25%;
+	transform:; translate (-50%, -50%);
+	color: black;
+	text-align: center;
+	font-size: 3em;
+}
+
+#main {
+	width: 80%;
+	margin: 20px auto;
+	font-size: 2em;
 }
